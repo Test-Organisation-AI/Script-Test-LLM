@@ -1,0 +1,3 @@
+for every project -> if no readme files -> then create it (Done)
+		  -> if present -> and no content -> read every files in the project and create readme files according to the files present in the project
+		  -> if present but not updated based on the latest commit -> update the readme based on the latest commits for any files present in the project and it should update based on the prompt given by the user - (A.I Implementation)
